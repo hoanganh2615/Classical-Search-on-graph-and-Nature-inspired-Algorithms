@@ -1,1 +1,1 @@
-# Implementation of classical search, nature inspired algorithms
+# Implementation of classical search, nature-inspired algorithms.
